@@ -22,7 +22,12 @@ The official repository of The Homer FPV quadcopter. Brought to you by a bunch o
 
 - oh, i want the option for 3 more cameras btw
 - we need all of the uarts
+- 
+## Round 2(a) "Scope Creep Strikes Back": 
 
-
+- do we have an i3c port
+- CANBUS
+- blackbox log
+- we should probably have a firewire port for zip drive updating if needed
 
 ![artist's rendition](https://github.com/angorb/the-homer-copter/blob/main/TheHomer.png?raw=true)
