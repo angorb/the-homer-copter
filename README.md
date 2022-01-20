@@ -2,7 +2,6 @@
 The official repository of The Homer FPV quadcopter. Brought to you by a bunch of weirdos in Discord. 
 
 # Requirements
-
 - LIDAR
 - a more complicated and less reliable product
 - add an NNP for processing tensorflow models
@@ -19,12 +18,10 @@ The official repository of The Homer FPV quadcopter. Brought to you by a bunch o
 - PBR
 
 ## Round 2: 
-
 - oh, i want the option for 3 more cameras btw
 - we need all of the uarts
-- 
-## Round 2(a) "Scope Creep Strikes Back": 
 
+### Round 2(a): 
 - do we have an i3c port
 - CANBUS
 - blackbox log
