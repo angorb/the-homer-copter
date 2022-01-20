@@ -17,3 +17,5 @@ The official repository of The Homer FPV quadcopter. Brought to you by a bunch o
 - 5g to pilot it remotely (we need to stay 1 g ahead of the normies)
 - it needs to be dji and analog and hdzero and hdeezero
 - PBR
+
+![artist's rendition](https://github.com/angorb/the-homer-copter/blob/main/TheHomer.png?raw=true)
