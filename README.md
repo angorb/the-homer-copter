@@ -18,4 +18,11 @@ The official repository of The Homer FPV quadcopter. Brought to you by a bunch o
 - it needs to be dji and analog and hdzero and hdeezero
 - PBR
 
+## Round 2: 
+
+- oh, i want the option for 3 more cameras btw
+- we need all of the uarts
+
+
+
 ![artist's rendition](https://github.com/angorb/the-homer-copter/blob/main/TheHomer.png?raw=true)
