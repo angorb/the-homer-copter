@@ -1,5 +1,5 @@
 # the-homer-copter
-The official repository of The Homer FPV quadcopter. Brought to you by a bunch of weirdos in Discord. 
+The official repository of The Homer FPV quadcopter.
 
 # Requirements
 - LIDAR
@@ -26,5 +26,8 @@ The official repository of The Homer FPV quadcopter. Brought to you by a bunch o
 - CANBUS
 - blackbox log
 - we should probably have a firewire port for zip drive updating if needed
+
+### Also...
+- laser (20w = 0.95A on 6S)
 
 ![artist's rendition](https://github.com/angorb/the-homer-copter/blob/main/TheHomer.png?raw=true)
